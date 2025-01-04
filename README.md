@@ -14,4 +14,6 @@ This is a **stock market prediction web application** built using **React** for 
 - **Frontend**: React + Tailwind CSS (optional)  
 - **Backend**: Flask + Python  
 - **Machine Learning**: TensorFlow  
-- **Data**: Historical stock data (via an external API like Alpha Vantage, Yahoo Finance, or similar) 
+- **Data**: Historical stock data (via an external API like Alpha Vantage, Yahoo Finance, or similar)
+- ![image](https://github.com/user-attachments/assets/8a4d3e27-58f8-40ae-b33f-ba93a804ae69)
+
