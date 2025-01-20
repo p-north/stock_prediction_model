@@ -1,4 +1,4 @@
-# Stock Predictor using React + Flask + TensorFlow
+# Stock Predictor using React + Flask + TensorFlow (Under Development Still -:)
 
 This is a **stock market prediction web application** built using **React** for the frontend, **Flask** for the backend, and **TensorFlow** for the machine learning model. The app predicts future stock prices based on historical data, providing users with insights into market trends.
 
